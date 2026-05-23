@@ -1,0 +1,230 @@
+company,role,location,min_salary,median_salary,max_salary
+Accenture,Data Analyst,India,241476,241476.0,241476
+Accenture,Data Analyst,UK,164304,164304.0,164304
+Accenture,Data Analyst,USA,66915,66915.0,66915
+Accenture,Data Scientist,India,86695,86695.0,86695
+Accenture,Data Scientist,Remote,37588,37588.0,37588
+Accenture,Data Scientist,UK,125511,125511.0,125511
+Accenture,Data Scientist,USA,184749,184749.0,184749
+Accenture,DevOps Engineer,Canada,83675,83675.0,83675
+Accenture,DevOps Engineer,Germany,133525,136553.5,139582
+Accenture,DevOps Engineer,Remote,119222,119222.0,119222
+Accenture,DevOps Engineer,USA,242475,242475.0,242475
+Accenture,HR,Germany,89319,89319.0,89319
+Accenture,HR,India,57712,151531.0,151531
+Accenture,HR,Remote,112156,112156.0,112156
+Accenture,HR,UK,70734,117358.0,117358
+Accenture,HR,USA,134606,179070.0,223534
+Accenture,ML Engineer,India,192872,192872.0,192872
+Accenture,ML Engineer,Remote,152276,198626.5,244977
+Accenture,ML Engineer,UK,111615,111615.0,111615
+Accenture,Product Manager,Germany,179895,199107.5,218320
+Accenture,Product Manager,India,46053,201500.0,237808
+Accenture,Product Manager,UK,63425,63425.0,63425
+Accenture,Software Engineer,India,183067,183067.0,183067
+Accenture,Software Engineer,Remote,80068,80068.0,80068
+Accenture,Software Engineer,UK,141890,141890.0,141890
+Accenture,qwerty_asdf,UK,111615,119869.0,128123
+Amazon,Data Analyst,Germany,200636,200636.0,200636
+Amazon,Data Analyst,India,122825,122825.0,122825
+Amazon,Data Analyst,UK,48122,145109.5,234449
+Amazon,Data Scientist,UK,62873,62873.0,62873
+Amazon,DevOps Engineer,Germany,250501,250501.0,250501
+Amazon,DevOps Engineer,India,94904,94904.0,94904
+Amazon,DevOps Engineer,Remote,138188,138188.0,138188
+Amazon,HR,Canada,182747,182747.0,182747
+Amazon,HR,USA,187303,187303.0,187303
+Amazon,ML Engineer,USA,88687,88687.0,88687
+Amazon,Product Manager,India,175836,175836.0,175836
+Amazon,Software Engineer,Canada,170807,170807.0,170807
+Amazon,Software Engineer,India,171769,171769.0,171769
+Amazon,Software Engineer,Remote,158799,209055.5,259312
+Amazon,Software Engineer,UK,123129,123129.0,123129
+Apple,Data Analyst,Germany,231778,231778.0,231778
+Apple,Data Analyst,Remote,129192,205101.0,205101
+Apple,Data Analyst,USA,258219,258219.0,258219
+Apple,Data Scientist,Canada,41782,117147.0,149163
+Apple,Data Scientist,UK,164850,209384.5,253919
+Apple,DevOps Engineer,Canada,104411,104411.0,104411
+Apple,DevOps Engineer,Germany,196033,196033.0,196033
+Apple,DevOps Engineer,India,101301,101301.0,101301
+Apple,DevOps Engineer,Remote,142488,142488.0,226901
+Apple,DevOps Engineer,UK,198067,198067.0,198067
+Apple,HR,Canada,80079,100044.0,167093
+Apple,HR,Remote,187629,187629.0,187629
+Apple,HR,UK,493629,493629.0,493629
+Apple,HR,USA,89409,90985.0,247242
+Apple,ML Engineer,Germany,139590,216114.0,292638
+Apple,ML Engineer,Remote,127362,127362.0,127362
+Apple,ML Engineer,UK,174281,174281.0,174281
+Apple,Product Manager,Canada,170930,197791.0,9578813
+Apple,Product Manager,Remote,103045,103045.0,103045
+Apple,Product Manager,UK,138687,243505.0,348323
+Apple,Software Engineer,Germany,39581,158126.0,184629
+Apple,Software Engineer,India,139473,139473.0,399210
+Apple,Software Engineer,UK,92483,92483.0,92483
+Apple,Software Engineer,USA,189422,189422.0,189422
+Apple,qwerty_asdf,Canada,197791,197791.0,197791
+Apple,qwerty_asdf,Remote,129192,129192.0,129192
+Google,Data Analyst,UK,76123,76123.0,76123
+Google,Data Analyst,USA,54298,54298.0,54298
+Google,Data Scientist,Canada,238947,238947.0,238947
+Google,Data Scientist,Remote,160691,160691.0,160691
+Google,Data Scientist,UK,111321,120239.5,161714
+Google,DevOps Engineer,Canada,219263,219263.0,219263
+Google,DevOps Engineer,Germany,181535,181535.0,181535
+Google,DevOps Engineer,India,253291,3915765.0,7578239
+Google,DevOps Engineer,Remote,84694,134211.0,134211
+Google,DevOps Engineer,UK,251567,251567.0,251567
+Google,DevOps Engineer,USA,127889,178628.5,229368
+Google,HR,Canada,204380,204380.0,204380
+Google,HR,Germany,113695,113695.0,113695
+Google,HR,USA,92551,122401.5,152252
+Google,ML Engineer,Germany,154869,154869.0,154869
+Google,ML Engineer,Remote,337722,337722.0,337722
+Google,ML Engineer,UK,194458,194458.0,194458
+Google,ML Engineer,USA,88683,88683.0,88683
+Google,Product Manager,Germany,55668,137146.0,218624
+Google,Product Manager,India,136103,136103.0,136103
+Google,Product Manager,Remote,154060,169816.0,399672
+Google,Product Manager,UK,228656,228656.0,228656
+Google,Software Engineer,Germany,92219,92219.0,92219
+Google,Software Engineer,Remote,196764,196764.0,196764
+Google,qwerty_asdf,Remote,212763,212763.0,212763
+IBM,Data Analyst,Canada,164014,164014.0,164014
+IBM,Data Analyst,Germany,226433,226433.0,226433
+IBM,Data Analyst,India,128202,128202.0,128202
+IBM,Data Analyst,Remote,121339,203390.0,270486
+IBM,Data Analyst,UK,212607,212607.0,212607
+IBM,Data Scientist,Canada,183872,183872.0,183872
+IBM,Data Scientist,Germany,229285,229285.0,11493117
+IBM,Data Scientist,India,203275,203275.0,203275
+IBM,Data Scientist,Remote,178785,178785.0,178785
+IBM,Data Scientist,UK,46997,171541.0,218566
+IBM,Data Scientist,USA,104279,107176.0,149723
+IBM,DevOps Engineer,Germany,213681,213681.0,213681
+IBM,DevOps Engineer,India,211712,211712.0,211712
+IBM,DevOps Engineer,Remote,110585,152483.0,152483
+IBM,HR,Canada,109473,109473.0,109473
+IBM,HR,Remote,184100,201986.5,219873
+IBM,HR,USA,16539,92106.0,14192327
+IBM,ML Engineer,Remote,219403,219403.0,219403
+IBM,ML Engineer,UK,213836,213836.0,213836
+IBM,Product Manager,Canada,116589,116589.0,116589
+IBM,Product Manager,Germany,213728,213728.0,213728
+IBM,Product Manager,India,96473,96473.0,96473
+IBM,Product Manager,Remote,97102,97102.0,242197
+IBM,Product Manager,UK,155164,155164.0,155164
+IBM,Product Manager,USA,132432,4952172.5,9771913
+IBM,qwerty_asdf,Canada,183872,183872.0,183872
+Infosys,Data Analyst,Canada,176229,176229.0,188849
+Infosys,Data Analyst,Germany,49815,49815.0,49815
+Infosys,Data Analyst,India,259180,259180.0,259180
+Infosys,Data Analyst,USA,115230,177245.5,189495
+Infosys,Data Scientist,Canada,153198,153198.0,153198
+Infosys,Data Scientist,Germany,65423,65423.0,65423
+Infosys,Data Scientist,USA,200997,200997.0,200997
+Infosys,DevOps Engineer,Germany,177323,177323.0,177323
+Infosys,DevOps Engineer,USA,116144,116144.0,116144
+Infosys,HR,Canada,138750,138750.0,138750
+Infosys,HR,Germany,132562,132562.0,132562
+Infosys,HR,Remote,43353,159424.0,13201373
+Infosys,HR,USA,162646,162646.0,162646
+Infosys,ML Engineer,Germany,173767,173767.0,173767
+Infosys,ML Engineer,USA,205183,205183.0,205183
+Infosys,Product Manager,India,216721,216721.0,216721
+Infosys,Product Manager,Remote,91097,91097.0,194544
+Infosys,Software Engineer,Canada,166938,166938.0,169075
+Infosys,Software Engineer,India,138345,138345.0,138345
+Infosys,Software Engineer,Remote,205736,205736.0,205736
+Infosys,Software Engineer,USA,92019,92019.0,194386
+Infosys,qwerty_asdf,Canada,138750,152844.0,166938
+Infosys,qwerty_asdf,Remote,155898,155898.0,155898
+Meta,Data Analyst,Canada,90816,90816.0,90816
+Meta,Data Analyst,India,111104,111104.0,182376
+Meta,Data Analyst,UK,170103,186445.0,186812
+Meta,Data Scientist,Canada,46861,99221.5,184256
+Meta,Data Scientist,Remote,228648,228648.0,228648
+Meta,DevOps Engineer,Canada,253091,253091.0,253091
+Meta,DevOps Engineer,Germany,125003,196301.0,196301
+Meta,DevOps Engineer,India,173051,183152.5,193254
+Meta,DevOps Engineer,USA,153858,153858.0,153858
+Meta,HR,India,139233,139233.0,139233
+Meta,HR,Remote,170161,4157283.0,8144405
+Meta,HR,USA,106983,106983.0,151446
+Meta,ML Engineer,Canada,11097999,11097999.0,11097999
+Meta,ML Engineer,Germany,164338,6162685.0,12161032
+Meta,ML Engineer,India,200648,200648.0,200648
+Meta,ML Engineer,Remote,170180,170180.0,12940519
+Meta,ML Engineer,UK,83049,181594.5,214502
+Meta,ML Engineer,USA,112313,177398.0,242483
+Meta,Product Manager,Canada,118235,118235.0,118235
+Meta,Product Manager,Germany,211190,211190.0,10295227
+Meta,Product Manager,UK,130508,165579.5,200651
+Meta,Software Engineer,Canada,111985,111985.0,141385
+Meta,Software Engineer,India,105862,270855.0,9991520
+Meta,Software Engineer,UK,87911,132710.0,177509
+Meta,qwerty_asdf,India,139233,139233.0,139233
+Microsoft,Data Analyst,Germany,159937,159937.0,159937
+Microsoft,Data Analyst,UK,193257,193257.0,193257
+Microsoft,Data Analyst,USA,179655,179655.0,179655
+Microsoft,Data Scientist,Canada,137459,244361.0,351263
+Microsoft,Data Scientist,Germany,192405,192405.0,192405
+Microsoft,Data Scientist,Remote,195813,195813.0,195813
+Microsoft,DevOps Engineer,India,153670,153670.0,153670
+Microsoft,DevOps Engineer,Remote,184298,184298.0,184298
+Microsoft,DevOps Engineer,UK,163290,163290.0,163290
+Microsoft,HR,Germany,188856,188856.0,188856
+Microsoft,HR,India,77042,77042.0,77042
+Microsoft,HR,Remote,210451,210451.0,210451
+Microsoft,ML Engineer,Germany,138040,138040.0,138040
+Microsoft,ML Engineer,India,165966,165966.0,165966
+Microsoft,ML Engineer,UK,177138,177138.0,177138
+Microsoft,Product Manager,India,142197,142197.0,142197
+Microsoft,Product Manager,Remote,262761,262761.0,262761
+Microsoft,Product Manager,USA,229226,437439.0,645652
+Microsoft,Software Engineer,India,115838,115838.0,115838
+Microsoft,Software Engineer,USA,169697,169697.0,169697
+Microsoft,qwerty_asdf,Germany,196139,196139.0,196139
+TCS,Data Analyst,Canada,66136,66136.0,66136
+TCS,Data Analyst,India,217921,397892.5,577864
+TCS,Data Analyst,Remote,136027,136027.0,136027
+TCS,Data Analyst,UK,117069,161692.5,206316
+TCS,Data Analyst,USA,101658,101658.0,102182
+TCS,Data Scientist,UK,184496,184496.0,184496
+TCS,Data Scientist,USA,113381,113381.0,113381
+TCS,DevOps Engineer,Germany,103478,104088.0,9734104
+TCS,DevOps Engineer,India,197753,197753.0,197753
+TCS,DevOps Engineer,Remote,26956,172261.0,452847
+TCS,DevOps Engineer,UK,118506,118506.0,118506
+TCS,HR,Canada,73919,227803.0,235501
+TCS,HR,India,93121,93121.0,93121
+TCS,HR,UK,160697,160697.0,160697
+TCS,HR,USA,50266,50266.0,50266
+TCS,ML Engineer,Canada,126755,137378.5,148002
+TCS,ML Engineer,Germany,140902,140902.0,140902
+TCS,ML Engineer,USA,203203,203203.0,203203
+TCS,Product Manager,Germany,166163,166163.0,166163
+TCS,Product Manager,UK,86524,86524.0,86524
+TCS,Software Engineer,Canada,190448,190448.0,190448
+TCS,Software Engineer,Germany,193171,193171.0,193171
+TCS,qwerty_asdf,Canada,204303,204303.0,204303
+Wipro,Data Analyst,Canada,248387,248387.0,248387
+Wipro,Data Analyst,Germany,149258,276629.5,404001
+Wipro,Data Analyst,Remote,121976,121976.0,121976
+Wipro,Data Analyst,USA,61204,209164.0,257164
+Wipro,Data Scientist,Canada,222142,222142.0,222142
+Wipro,Data Scientist,Germany,9777000,9777000.0,9777000
+Wipro,Data Scientist,Remote,158748,158748.0,158748
+Wipro,Data Scientist,UK,239738,239738.0,239738
+Wipro,Data Scientist,USA,152095,152095.0,161290
+Wipro,DevOps Engineer,India,165257,165257.0,201482
+Wipro,DevOps Engineer,Remote,104245,104245.0,104245
+Wipro,DevOps Engineer,UK,181882,181882.0,181882
+Wipro,HR,Remote,82379,82379.0,82379
+Wipro,HR,UK,116846,116846.0,116846
+Wipro,HR,USA,160606,160606.0,160606
+Wipro,ML Engineer,UK,87571,212200.0,212200
+Wipro,ML Engineer,USA,172670,172670.0,172670
+Wipro,Software Engineer,India,22059,185475.0,185475
+Wipro,Software Engineer,UK,240275,240275.0,240275
